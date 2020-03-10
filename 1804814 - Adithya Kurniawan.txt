@@ -1,0 +1,16 @@
+Saya Adithya Kurniawan mengerjakan evaluasi TP1 
+dalam mata kuliah PBO
+untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+
+Kesulitan :
+- Explore sendiri untuk materinya
+- Masih asing dengan bahasa c#
+
+Hal baru :
+- Membuat form dinamis
+- Penggunaan flowLayoutPanel
+
+Fitur :
+- Hampir semua fitur dikerjakan, untuk barang yang di cari dengan ComboBox masih belum bisa
+  ditambahkan button beli
+- Duplicate barang saat mencari jenis Baju
