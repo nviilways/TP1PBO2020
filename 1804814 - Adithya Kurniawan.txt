@@ -12,5 +12,5 @@ Hal baru :
 
 Fitur :
 - Hampir semua fitur dikerjakan, untuk barang yang di cari dengan ComboBox masih belum bisa
-  ditambahkan button beli
+  ditambahkan button beli yang memiliki fungsi ke detail barang tersebut
 - Duplicate barang saat mencari jenis Baju
